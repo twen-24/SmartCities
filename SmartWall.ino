@@ -1,3 +1,5 @@
+//This code controls the opening and closing mechanism of the smart wall. 
+
 int motorPin = 3;
 int sensorPin = 7;
 boolean wallOpen = true;
